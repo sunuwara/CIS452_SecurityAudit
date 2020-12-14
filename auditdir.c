@@ -191,4 +191,3 @@ void auditDir(char *dirPath, FILE *dataFP, FILE *copyFP, fpos_t *pos, int size)
     free(line);
     closedir(dirPtr);
 }
-

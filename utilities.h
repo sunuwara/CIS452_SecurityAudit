@@ -23,4 +23,3 @@ Return completed permissions string.
 char *createPermissionsStr(struct stat statBuf);
 
 #endif /* "utilities.h" */
-

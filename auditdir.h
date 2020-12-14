@@ -17,4 +17,3 @@ Runs a security audit of all files in the given directory and its subdirectories
 void auditDir(char *dirPath, FILE *dataFP, FILE *copyFP, fpos_t *pos, int size);
 
 #endif /* "auditdir.h" */
-
