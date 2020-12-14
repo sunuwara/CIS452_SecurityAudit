@@ -8,16 +8,9 @@ Status Change: Sun Dec 13 20:31:06 2020
 ./test/file2.txt
 Size: 28
 Access Rights: -rw-r--r--
-Access: Sun Dec 13 20:31:30 2020
+Access: Sun Dec 13 20:42:18 2020
 Modification: Sun Dec 13 20:31:30 2020
 Status Change: Sun Dec 13 20:31:30 2020
-
-./test/.nfs00000004861f900900000545
-Size: 502
-Access Rights: -rw-r--r--
-Access: Sun Dec 13 18:16:57 2020
-Modification: Sun Dec 13 18:43:42 2020
-Status Change: Sun Dec 13 18:43:42 2020
 
 ./test/subdir1/file1.txt
 Size: 11
@@ -36,14 +29,14 @@ Status Change: Sun Dec 13 18:08:08 2020
 ./test/subdir1/subsubdir1/file2.txt
 Size: 25
 Access Rights: -rw-r--r--
-Access: Sun Dec 13 20:32:12 2020
+Access: Sun Dec 13 20:42:18 2020
 Modification: Sun Dec 13 20:32:12 2020
 Status Change: Sun Dec 13 20:32:12 2020
 
 ./test/subdir2/file1.txt
 Size: 13
 Access Rights: -rw-r--r--
-Access: Sun Dec 13 20:32:36 2020
+Access: Sun Dec 13 20:42:18 2020
 Modification: Sun Dec 13 20:32:36 2020
 Status Change: Sun Dec 13 20:32:36 2020
 
