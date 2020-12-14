@@ -4,6 +4,8 @@
 # ignore all .nfs### files recursive from current directory
 **.nfs*
 
+./test/database.txt
+
 .replit
 
 .Makefile.swp
